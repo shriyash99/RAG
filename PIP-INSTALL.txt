@@ -1,0 +1,1 @@
+pip install --no-index -f http://192.168.50.254/pypi -f http://192.168.100.254 --trusted-host 192.168.50.254 --trusted-host 192.168.100.254 --retries 0 --timeout 2 LIBRARY
